@@ -1,1 +1,0 @@
-## Practice slice and dice tricks using .loc and .iloc.
