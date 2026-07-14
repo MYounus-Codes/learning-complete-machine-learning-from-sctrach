@@ -1,0 +1,11 @@
+Transaction_ID,Date,Product,Category,Units_Sold,Unit_Price,Region
+101,2026-07-01,Laptop,Electronics,1.0,1200,North
+102,2026-07-01,Mouse,Accessories,4.0,25,East
+103,2026-07-02,Monitor,Electronics,2.0,300,West
+104,2026-07-02,Laptop,Electronics,1.0,1200,South
+105,2026-07-03,Mouse,Accessories,5.0,25,East
+106,2026-07-03,Keyboard,Accessories,2.0,50,North
+107,2026-07-04,Monitor,Electronics,,300,West
+108,2026-07-04,Laptop,Electronics,3.0,1200,North
+109,2026-07-05,Mouse,Accessories,10.0,25,South
+110,2026-07-05,Unknown,Accessories,1.0,45,East
