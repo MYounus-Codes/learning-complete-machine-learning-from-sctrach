@@ -15,3 +15,4 @@ wheels/
 # Large generated datasets that should stay local
 04_data_libraries/01_pandas/used_phone_price_prediction_1M.csv
 04_data_libraries/01_pandas/used_phone_price_prediction_cleaned.csv
+04_data_libraries/02_numpy/used_phone_price_prediction_cleaned.csv
