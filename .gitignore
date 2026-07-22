@@ -16,4 +16,4 @@ wheels/
 04_data_libraries/01_pandas/used_phone_price_prediction_1M.csv
 04_data_libraries/01_pandas/used_phone_price_prediction_cleaned.csv
 04_data_libraries/02_numpy/used_phone_price_prediction_cleaned.csv
-04_data_libraries/03_matplotlib/netflix_dataset_project/netflix_titles.csv
+04_data_libraries/data
