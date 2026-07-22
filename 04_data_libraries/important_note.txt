@@ -1,0 +1,22 @@
+----> Learn Math required for ML after completing these data libraries
+
+- Linear Algebra
+- Matrices and it's Opreations, Vectors
+- Statistics & Probability
+
+
+--- Initial Syllabus --- :
+
+- SYLLABUS - 
+
+-- Phase 1 - Math Foundations
+    Arithmetic, algebra, linear equations, graphs
+
+-- Phase 2 - Statistics for Data Science
+    Mean, median, mode, variance, standard deviation, data visualization
+
+-- Phase 3 - Probability for Data Science
+    Probability rules, conditional probability, random variables, simulations
+
+-- Phase 4 - Linear Algebra for ML
+    Vectors, matrices, matrix operations, dot product
